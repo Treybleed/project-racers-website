@@ -1,6 +1,6 @@
 import React from "react"
-import '../styles/global.css';
+import styles from '../styles/home.module.scss';
 
 export default function Home() {
-  return <div class="title">Project Racers!!</div>
+  return <div className={styles.title}>Project Racers!!</div>
 }
