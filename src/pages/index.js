@@ -1,5 +1,6 @@
 import React from "react"
+import '../styles/global.css';
 
 export default function Home() {
-  return <div>Project Racers!!</div>
+  return <div class="title">Project Racers!!</div>
 }

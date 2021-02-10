@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Racers";
+    src: local("Racers"), url(../fonts/RacersFinal.v3.otf) format("opentype");
+  }
+
+  .title {
+      font-family: "Racers";
+      text-align: center;
+      font-size: 5rem;
+  }
