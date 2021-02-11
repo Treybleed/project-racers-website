@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   plugins: [
-              `gatsby-plugin-sass`, 
+              `gatsby-plugin-scss-typescript`,
               `gatsby-plugin-typescript`,
               {
                 resolve: `gatsby-plugin-minify-classnames`,

@@ -1,5 +1,5 @@
 import React, { FunctionComponent } from "react"
-const styles = require('../styles/home.module.scss');
+import * as styles from  '../styles/home.module.scss';
 
 type TitleProps = {
     title: string
